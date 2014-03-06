@@ -14,3 +14,6 @@ name=input("What is your name?")
 end=". How are you today?"
 sentence=start+name+end
 print(sentence)
+number=str(2)
+print("2+2=",number+number")
+
